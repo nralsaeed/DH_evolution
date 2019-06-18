@@ -356,7 +356,6 @@ def parallel_parameter_study(a,b,c,d,e,f,R, filename):
     Results = []
 
     #initialize mapping 
-    #(idk what this is but it makes it work)
 
     if __name__ == "__main__":
     
